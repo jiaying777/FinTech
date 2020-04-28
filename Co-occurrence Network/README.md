@@ -15,4 +15,22 @@
   
 ## 整理資料＆建立共現矩陣
 
+只顯示共現矩陣前5列：
 
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/共現矩陣1.png'>
+
+得到的共現矩陣為稀疏矩陣。
+
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/co_sym.png'>
+
+👆畫出股票間的熱點圖，發現彼此之間的共現頻率不高❗️
+
+  
+  🧐可能原因：
+  
+    資料量不足造成稀疏矩陣，因此畫出來的熱點圖共現頻率也很低。
+  
+  💡解決辦法：
+  
+    增加資料量(瀏覽資料的時間區間加長)，資料變多可以使各股共現次次數提高，藉此可以更準確地分析。
+  
