@@ -92,6 +92,7 @@
 <br>
 <img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/0416_2330_Co_map.png'>
 
+📌 距離為兩點之間共現的次數，共現次數越大兩點會越靠近，節點大小為總出現次數。<br>
 👆由上圖可知瀏覽2330台積電的這群用戶可能會瀏覽的股票之特徵為：<br>
   (指標共現次數其實都很相近，同指標取其高且相近者)
 <br>
