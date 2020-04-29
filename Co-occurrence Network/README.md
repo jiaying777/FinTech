@@ -21,7 +21,7 @@
 
 得到的共現矩陣為稀疏矩陣。
 
-<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/co_sym.png'>
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/co_sym.png' width=80%>
 
 👆畫出股票間的熱點圖，發現彼此之間的共現頻率不高❗️
 
@@ -33,4 +33,22 @@
   💡解決辦法：
   
     增加資料量(瀏覽資料的時間區間加長)，資料變多可以使各股共現次次數提高，藉此可以更準確地分析。
-  
+    
+## 共現圖
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/Co-occurrence%20map.png' width=80%>
+<br>
+
+👆 資料量過多，因此需要篩選資料，不然從圖看不出什麼資訊。
+<br>
+
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/統計次數.png' width=50%>
+
+由統計圖看出，0410~0416這段期間2330台積電為最多人瀏覽的股票，因此選擇2330台積電來做進一步的分析。🚗
+<br>
+
+### 2330台積電與所有共現股票之共線圖
+
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/2330_Co-occurrence%20map.png'>
+
+
+
