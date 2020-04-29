@@ -51,7 +51,7 @@
 
 <img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/2330_Co-occurrence%20map.png'>
 
-📌距離為共現機率，節點大小為被瀏覽的總人次。
+📌距離為共現機率，節點大小為被瀏覽的總人次。<br>
 👉 由於很多股票跟2330台積電的共現次數都不高，所以篩選共現頻率較高的再畫一次共現圖
 
 <img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/2330_Co_map.png'>
@@ -79,7 +79,10 @@
 
 ### 共現圖
 <img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/0416_2330_Co_map.png'>
-👆由上圖可知瀏覽2330台積電的這群用戶可能會瀏覽的股票之特徵為：(只標共現次數其實都很相近，同指標取其高且相近者)
+
+👆由上圖可知瀏覽2330台積電的這群用戶可能會瀏覽的股票之特徵為：<br>
+      (只標共現次數其實都很相近，同指標取其高且相近者)
+<br>
 
    * 股價位於0~50
    * 殖利率1~5
