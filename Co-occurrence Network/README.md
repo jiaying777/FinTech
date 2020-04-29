@@ -2,7 +2,8 @@
 
 資料來源：[Fugle](https://www.fugle.tw)\
 資料名稱：[0410~0416客戶瀏覽卡片資料](https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/data.zip)
-（因資料使用權限問題，在此僅附上已經處理過的資料）
+（因資料使用權限問題，在此僅附上已經處理過的資料）\
+分析程式碼：[code](https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/user_action.ipynb)
 
 ## 觀察資料
 * 拿到資料後發現**同一個用戶**瀏覽不同股票所觀看的卡片皆相同，由於卡片版面為使用者自行設定，因此可能會因人而異，但同一個人觀看的卡片卻沒什麼差異，所以卡片只能代表這個使用者習慣看哪些資訊，因此把此卡片放在版面中，但我們無法從此資料中得知使用者到底有沒有看這張卡片。
@@ -95,7 +96,8 @@
 <img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/相似使用者.png' width=80%>
 <br>
 
-#### 將使用者分群再推播
+#### 將使用者分群再推播:
+
 
 📍 找出這些相似的使用者，將使用者做分群，就能夠更準確地進行推播。<br>
 🚗 再來我們可以將相似**高達8成**的使用者也觀看或追蹤的股票推薦給其他相似的使用者。
