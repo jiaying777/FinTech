@@ -123,7 +123,19 @@
 
 👉 由此一來就可以根據上述規則進行智能推播啦！！！ 🎉🎉🎉
 
+<br>
+<br>
 
+## 參考資料：
+
+* https://blog.csdn.net/qq_41020101/article/details/88854917  (熱力圖顏色)
+* https://segmentfault.com/a/1190000000527216
+* https://blog.csdn.net/daiyao666/article/details/78366936
+* https://zhuanlan.zhihu.com/p/40852672
+* https://www.itread01.com/content/1524387379.html
+* https://medium.com/python-資料視覺化/python-商業數據分析之可視化繪圖-第19講-熱力圖-seaborn-heatmap-cf1b17d7964e
+* https://blog.csdn.net/qq_41854763/article/details/103405760
+* https://www.itread01.com/content/1547148989.html
 
 
 
