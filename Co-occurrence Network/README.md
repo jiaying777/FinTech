@@ -50,5 +50,58 @@
 
 <img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/2330_Co-occurrence%20map.png'>
 
+📌距離為共現機率，節點大小為被瀏覽的總人次。
+👉 由於很多股票跟2330台積電的共現次數都不高，所以篩選共現頻率較高的再畫一次共現圖
+
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/2330_Co_map.png'>
+
+📌距離為共現機率，節點大小為被瀏覽的總人次。<br>
+👉 由上圖可以看出看2330台積電的人也有機率會看0050、0056、2884、2317、2337等等股票。<br>
+👉 其中0050、0056為ETF，而2884玉山金為Fugle合作夥伴，因此玉山金的瀏覽次數與共現頻率可能不是那麼準確。
+<br>
+
+## 抓取股票特徵再分析
+
+📌抓取特定指標，找出看完2330台積電後可能會瀏覽的股票之間的關係（沒有ETF的部分，因為ETF沒有本益比。指標選擇根據專題小組共同決定而來。）
+
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/共現矩陣2.png'>
+<br>
+
+#### 建立共現矩陣
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/共現矩陣3.png'>
+<br>
+
+### 熱點圖
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/0416_2330_co_sym.png'>
+👆 從熱點圖可以看出各特徵之間共現的關係
+<br>
+
+### 共現圖
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/0416_2330_Co_map.png'>
+👆由上圖可知瀏覽2330台積電的這群用戶可能會瀏覽的股票之特徵為：(只標共現次數其實都很相近，同指標取其高且相近者)
+
+   * 股價位於0~50
+   * 殖利率1~5
+   * 股價淨值比>1
+   * 本益比12~20
+   * Beta係數>1
+<br>
+
+## 回去找出這群使用者 👫
+
+🔍 找出“使用者瀏覽股票清單”和“看2330台積電後可能會看的股票清單”相似程度**高達8成**的使用者
+
+<img src='https://github.com/jiaying777/FinTech/blob/master/Co-occurrence%20Network/相似使用者.png' width=80%>
+
+#### 使用者分群
+
+📍 找出這些相似的使用者，將使用者做分群，就能夠更準確地進行推播。<br>
+🚗 再來我們可以將相似**高達8成**的使用者也觀看或追蹤的股票推薦給其他相似的使用者。
+
+
+
+
+
+
 
 
