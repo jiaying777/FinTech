@@ -1,6 +1,12 @@
 # KMeans
 [code](https://github.com/jiaying777/FinTech/blob/master/KMeans/Kmeans.ipynb)<br>
 
+## 資料
+上市上櫃股票：
+* 殖利率
+* 本益比
+* 淨值比
+* Beta
 ## 作法
 ### 分群判斷
 
