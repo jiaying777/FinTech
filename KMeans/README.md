@@ -16,7 +16,7 @@
 - 完成分群後再找出每群的特徵，並固定質心，以避免每次訓練出來的分群不同。
 
 <img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/特徵.png'>
-<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/stock_Kmeans.png'>
+<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/stock_Kmeans.png' width=80%>
 
 ### 分群特徵
 
