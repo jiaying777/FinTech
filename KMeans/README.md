@@ -32,7 +32,7 @@
     label 3：淨值比顯著偏高
     label 4：各項數值皆偏低
     
-<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/殖利率.png'>
-<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/本益比.png'>
-<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/淨值比.png'>
-<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/beta.png'>
+<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/殖利率_.png'>
+<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/本益比_.png'>
+<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/淨值比_.png'>
+<img src='https://github.com/jiaying777/FinTech/blob/master/KMeans/beta_.png'>
